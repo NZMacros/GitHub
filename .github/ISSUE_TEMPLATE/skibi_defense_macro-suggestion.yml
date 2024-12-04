@@ -1,4 +1,4 @@
-name: Suggestion
+name: SDM Suggestion
 description: Suggest an idea for the macro.
 labels: ["type:suggestion", "macro:skibi_defense_macro"]
 
