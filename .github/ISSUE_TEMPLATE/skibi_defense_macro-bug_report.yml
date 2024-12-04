@@ -1,4 +1,4 @@
-name: Bug Report
+name: SDM Bug Report
 description: Report an issue or error in the macro.
 labels: ["type:bug", "macro:skibi_defense_macro"]
 
